@@ -3,6 +3,6 @@ Decodificador de texto desenvolvido no desafio 1 da Oracle
 
 
 
-## [Clique aqui e acesse o site](https://iscarola.github.io/Decodificador/)
+## [Clique aqui e experimente](https://iscarola.github.io/Decodificador/)
 
-<img src ="https://i.pinimg.com/originals/f2/9a/ed/f29aed08a803af615fab4ccd2895f22b.jpg" />
+<img src ="https://i.pinimg.com/originals/c8/ea/bd/c8eabdb00ee53095add4e6966c36b278.jpg" />
