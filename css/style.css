@@ -76,7 +76,7 @@ body{
 
 
 #input-entrada{
-    width: 400px;
+    width: 500px;
     height: 200px;
     background: linear-gradient(115.71deg, rgba(69, 92, 100, 0.81) 1.99%, rgba(69, 92, 100, 0.21) 100.69%);
     box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.25);
@@ -121,10 +121,11 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    margin-bottom: 0px;
 }
 
 .text-input{
-    width: 400px;
+    width: 500px;
     height: 200px;
     background: linear-gradient(115.71deg, rgba(69, 92, 100, 0.81) 1.99%, rgba(69, 92, 100, 0.21) 100.69%);
     box-shadow: inset 0px 4px 10px rgba(0, 0, 0, 0.25);
@@ -142,7 +143,7 @@ body{
 
 .conteudo-secundario-titulo{
     border-top: 0.4px solid #FFF2E7;
-    padding-top: 48px;
+    padding-top: 78px;
     font-family: 'Righteous', cursive;
     font-weight: 400;
     font-size: 24px;
@@ -160,6 +161,7 @@ body{
 .rodape{
     padding: 32px;
     border-top: 0.4px solid #FFF2E7;
+    text-align: center;
 
 }
 
